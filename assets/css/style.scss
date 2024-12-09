@@ -1,5 +1,5 @@
 /* Importing remote theme */
-@import "{{ site.remote_theme }}";
+@import "{{ site.theme }}";
 /* Importing normalize.css for consistent styling across browsers */
 @import 'normalize.css';
 
