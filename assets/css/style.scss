@@ -50,6 +50,41 @@ nav a:hover {
 h1, h2, h3, h4, h5, h6 {
     color: var(--highlight-color);
 }
+.sticky-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 100%;
+  background-color: var(--header-background-color);
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.sticky-nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sticky-nav ul li {
+  margin: 15px 0;
+}
+
+.sticky-nav ul li a {
+  color: var(--text-color);
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.sticky-nav ul li a:hover {
+  color: var(--highlight-color);
+}
+
+.main-content {
+  margin-left: 220px;
+  padding: 20px;
+}
 
 footer {
     background-color: var(--header-background-color);
