@@ -1,15 +1,18 @@
-/* Importing remote theme */
+---
+---
+
 @import "{{ site.theme }}";
-/* Importing normalize.css for consistent styling across browsers */
 @import 'normalize.css';
 
 /* Define CSS variables for colors and fonts */
 :root {
-    --background-color: #1e1e1e;
-    --text-color: #f9f9f9;
-    --header-background-color: #2b2b2b;
-    --highlight-color: #ffcc00;
-    --font-family: 'Arial', sans-serif;
+    --background-color: #121212;  // Dark background
+    --text-color: #e0e0e0;        // Light text color
+    --header-background-color: #1f1f1f;
+    --highlight-color: #ff9800;   // Vibrant accent color
+    --font-family: 'Roboto', sans-serif;  // Modern sans-serif font
+    --border-radius: 8px;         // Rounded corners
+    --transition-duration: 0.3s;  // Smooth transitions
 }
 
 /* Apply CSS variables */
@@ -25,6 +28,7 @@ header {
     background-color: var(--header-background-color);
     padding: 20px;
     text-align: center;
+    border-bottom: 1px solid var(--highlight-color);
 }
 
 nav {
@@ -36,7 +40,7 @@ nav {
 nav a {
     color: var(--text-color);
     text-decoration: none;
-    transition: text-decoration 0.3s;
+    transition: text-decoration var(--transition-duration);
 }
 
 nav a:hover {
@@ -50,40 +54,42 @@ nav a:hover {
 h1, h2, h3, h4, h5, h6 {
     color: var(--highlight-color);
 }
+
 .sticky-nav {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 200px;
-  height: 100%;
-  background-color: var(--header-background-color);
-  padding: 20px;
-  overflow-y: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100%;
+    background-color: var(--header-background-color);
+    padding: 20px;
+    overflow-y: auto;
+    border-radius: var(--border-radius);
 }
 
 .sticky-nav ul {
-  list-style: none;
-  padding: 0;
+    list-style: none;
+    padding: 0;
 }
 
 .sticky-nav ul li {
-  margin: 15px 0;
+    margin: 15px 0;
 }
 
 .sticky-nav ul li a {
-  color: var(--text-color);
-  text-decoration: none;
-  font-weight: bold;
-  transition: color 0.3s;
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: bold;
+    transition: color var(--transition-duration);
 }
 
 .sticky-nav ul li a:hover {
-  color: var(--highlight-color);
+    color: var(--highlight-color);
 }
 
 .main-content {
-  margin-left: 220px;
-  padding: 20px;
+    margin-left: 220px;
+    padding: 20px;
 }
 
 footer {
@@ -94,4 +100,32 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    border-top: 1px solid var(--highlight-color);
+}
+
+/* Additional modern styles */
+button {
+    background-color: var(--highlight-color);
+    color: var(--text-color);
+    border: none;
+    border-radius: var(--border-radius);
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color var(--transition-duration);
+}
+
+button:hover {
+    background-color: darken(var(--highlight-color), 10%);
+}
+
+.card {
+    background-color: var(--header-background-color);
+    padding: 20px;
+    border-radius: var(--border-radius);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform var(--transition-duration);
+}
+
+.card:hover {
+    transform: translateY(-10px);
 }
