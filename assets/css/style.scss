@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 /* Importing normalize.css for consistent styling across browsers */
+/* Importing normalize.css for consistent styling across browsers */
 @import 'normalize.css';
 
 /* Define CSS variables for colors and fonts */
@@ -14,6 +15,7 @@
     --font-family: 'Roboto', sans-serif;  // Modern sans-serif font
     --border-radius: 8px;         // Rounded corners
     --transition-duration: 0.3s;  // Smooth transitions
+    --link-color: #ff9800;        // Yellow link color
 }
 
 /* Apply CSS variables */
@@ -39,7 +41,7 @@ nav {
 }
 
 nav a {
-    color: var(--text-color);
+    color: var(--link-color);  // Change link color to yellow
     text-decoration: none;
     transition: text-decoration var(--transition-duration);
 }
@@ -98,8 +100,7 @@ footer {
     color: var(--text-color);
     text-align: center;
     padding: 10px;
-    position: fixed;
-    bottom: 0;
+    position: relative;  // Ensure footer fits on the page
     width: 100%;
     border-top: 1px solid var(--highlight-color);
 }
