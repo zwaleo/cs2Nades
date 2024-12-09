@@ -1,7 +1,5 @@
 ---
 layout: default
-title: "CS2 nades"
-permalink: /
 ---
 
 # Welcome to CS2 Nades and Tactics
