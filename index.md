@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to CS2 Nades and Tactics
 
 ## Maps:
