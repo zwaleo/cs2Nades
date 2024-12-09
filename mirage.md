@@ -9,8 +9,6 @@
   2. Look at corner of balcony
      
 <img title="a title" alt="Alt text" src="/assets/de_mirage_window_pos.png"> <img title="a title" alt="Alt text" src="/assets/de_mirage_window_pov.png">
-![Alt text](/assets/images/de_mirage_window_pos.png)
-![Alt text](/assets/images/de_mirage_window_pov.png)
 </details>
 
 
