@@ -1,0 +1,6 @@
+title: CS2 Nade Guide
+description: A simple site built with Jekyll
+url: "https://zwaleo.github.io"  # Change this to your GitHub Pages URL
+baseurl: ""  # Leave empty for root or change for subpath (e.g. "/blog")
+markdown: kramdown
+theme: jekyll-theme-cayman  # Optional, can use other themes or custom ones
