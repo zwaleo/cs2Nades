@@ -1,10 +1,9 @@
+/* Importing remote theme */
+@import "{{ site.remote_theme }}";
 /* Importing normalize.css for consistent styling across browsers */
 @import 'normalize.css';
+
 /* Define CSS variables for colors and fonts */
-
-/* Importing theme */
-@import "{{ site.theme }}";
-
 :root {
     --background-color: #1e1e1e;
     --text-color: #f9f9f9;
