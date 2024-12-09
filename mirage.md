@@ -28,4 +28,3 @@
 ### Example Code
 ```javascript
 console.log("Hello, world!");
-
