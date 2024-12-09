@@ -4,11 +4,9 @@ title: "CS2 nades"
 permalink: /
 ---
 
-# Willkommen auf der CS2 Maps Seite
+# Welcome to CS2 Nades and Tactics
 
-Dies ist eine Sammlung von Nades für CS2
-
-## Karten:
+## Maps:
 - [Dust2 Guide](dust2)
 - [Mirage Guide](mirage)
 - [Inferno Guide](inferno)
