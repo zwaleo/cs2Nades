@@ -6,4 +6,8 @@ nav:
   - Mirage: mirage.md
   - Inferno: inferno.md
 theme:
+  palette:
+    primary: "amber"
+    accent: "amber"
+    scheme: "slate"
   name: material
