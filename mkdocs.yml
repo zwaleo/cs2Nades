@@ -2,16 +2,14 @@ site_name: CS2 Nades and Tactics
 site_url: https://zwaleo.github.io
 nav:
   - Home: index.md
-  - Dust II: dust2.md
   - Mirage: mirage.md
-  - Inferno: inferno.md
 theme:
   palette:
     primary: "amber"
     accent: "amber"
     scheme: "slate"
   name: material
-  
+
   markdown_extensions:
   - attr_list
   - md_in_html
