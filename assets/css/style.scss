@@ -4,18 +4,16 @@
 @import "{{ site.theme }}";
 /* Importing normalize.css for consistent styling across browsers */
 /* Importing normalize.css for consistent styling across browsers */
-@import 'normalize.css';
-
 /* Define CSS variables for colors and fonts */
 :root {
-    --background-color: #121212;  // Dark background
-    --text-color: #e0e0e0;        // Light text color
-    --header-background-color: #1f1f1f;
-    --highlight-color: #ff9800;   // Vibrant accent color
-    --font-family: 'Roboto', sans-serif;  // Modern sans-serif font
-    --border-radius: 8px;         // Rounded corners
-    --transition-duration: 0.3s;  // Smooth transitions
-    --link-color: #ff9800;        // Yellow link color
+    --background-color: #ffffff;
+    --text-color: #333333;
+    --header-background-color: #f8f9fa;
+    --highlight-color: #007bff;
+    --font-family: 'Roboto', sans-serif;
+    --border-radius: 4px;
+    --transition-duration: 0.3s;
+    --link-color: #007bff;
 }
 
 /* Apply CSS variables */
@@ -27,6 +25,7 @@ body {
     padding: 0;
 }
 
+/* Header styles */
 header {
     background-color: var(--header-background-color);
     padding: 20px;
@@ -34,14 +33,17 @@ header {
     border-bottom: 1px solid var(--highlight-color);
 }
 
+/* Navigation styles */
 nav {
+    background-color: var(--header-background-color);
     display: flex;
     justify-content: center;
     gap: 15px;
+    padding: 10px 0;
 }
 
 nav a {
-    color: var(--link-color);  // Change link color to yellow
+    color: var(--link-color);
     text-decoration: none;
     transition: text-decoration var(--transition-duration);
 }
@@ -50,59 +52,23 @@ nav a:hover {
     text-decoration: underline;
 }
 
-.container {
+/* Main content styles */
+main {
     padding: 20px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: var(--highlight-color);
-}
-
-.sticky-nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 200px;
-    height: 100%;
-    background-color: var(--header-background-color);
-    padding: 20px;
-    overflow-y: auto;
-    border-radius: var(--border-radius);
-}
-
-.sticky-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-.sticky-nav ul li {
-    margin: 15px 0;
-}
-
-.sticky-nav ul li a {
-    color: var(--text-color);
-    text-decoration: none;
-    font-weight: bold;
-    transition: color var(--transition-duration);
-}
-
-.sticky-nav ul li a:hover {
-    color: var(--highlight-color);
-}
-
-.main-content {
-    margin-left: 220px;
-    padding: 20px;
-}
-
+/* Footer styles */
 footer {
     background-color: var(--header-background-color);
     color: var(--text-color);
     text-align: center;
     padding: 10px;
-    position: relative;  // Ensure footer fits on the page
-    width: 100%;
     border-top: 1px solid var(--highlight-color);
+}
+
+/* Heading styles */
+h1, h2, h3, h4, h5, h6 {
+    color: var(--highlight-color);
 }
 
 /* Additional modern styles */
@@ -117,7 +83,7 @@ button {
 }
 
 button:hover {
-    background-color: rgba(255, 152, 0, 0.8);  // Use rgba for hover effect
+    background-color: rgba(0, 123, 255, 0.8);
 }
 
 .card {
