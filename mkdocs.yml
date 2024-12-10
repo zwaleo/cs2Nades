@@ -2,8 +2,8 @@ site_name: CS2 Nades and Tactics
 site_url: https://zwaleo.github.io
 nav:
   - Home: index.md
-  - Nades: nades.md
-  - Tactics: tactics.md
-  - About: about.md
+  - Dust II: dust2.md
+  - Mirage: mirage.md
+  - Inferno: inferno.md
 theme:
   name: material
