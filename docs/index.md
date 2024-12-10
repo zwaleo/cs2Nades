@@ -6,5 +6,5 @@ Welcome to the ultimate guide for Counter-Strike 2 tactics and grenade usage. He
 
 #### Mirage
 
-- [Grenades](./mirage/nades/mirage_nades.md)
-- [Tactics](./mirage/tactics/mirage_tactics.md)
+- [Grenades](./nades/mirage_nades.md)
+- [Tactics](./tactics/mirage_tactics.md)
