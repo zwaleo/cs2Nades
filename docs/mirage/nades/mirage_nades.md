@@ -2,11 +2,12 @@
 
 ### A Site
 
-| CT Smoke                             | Stairs Smoke                         | Jungle Smoke                         |
-|--------------------------------------|--------------------------------------|--------------------------------------|
-| ![Greande Landed](../../assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Grenade Landed](../../assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Grenade Landed](../../assets/img/mirage_tside_ctsmoke_3rd.jpg) |
-| ![Pos](../../assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Grenade Landed](../../assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Grenade Landed](../../assets/img/mirage_tside_ctsmoke_3rd.jpg) |
-| Jumpthrow                            | Description for Grenade 2            | Description for Grenade 3            |
+| CT Smoke                             | Stairs Smoke                         |
+|--------------------------------------|--------------------------------------|
+| ![Greande Landed](../../assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Grenade Landed](../../assets/img/mirage_tside_ctsmoke_3rd.jpg) |
+| ![Pos](../../assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Pos](../../assets/img/mirage_tside_ctsmoke_3rd.jpg) |
+| ![throw](../../assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![throw](../../assets/img/mirage_tside_ctsmoke_3rd.jpg) |
+| Jumpthrow                            | Description for Grenade 2            |
 
 ---
 ### Mid Control
