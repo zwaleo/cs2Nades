@@ -1,0 +1,9 @@
+site_name: CS2 Nades and Tactics
+site_url: https://zwaleo.github.io
+nav:
+  - Home: index.md
+  - Nades: nades.md
+  - Tactics: tactics.md
+  - About: about.md
+theme:
+  name: material
