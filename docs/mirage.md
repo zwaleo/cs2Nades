@@ -1,38 +1,9 @@
-# Mirage - Tactics & Smokes
+# Mirage - Tactics & Nades
 
-## T-Side
+## Explore Mirage Strategies and Grenade Spots
 
-### Window Smoke
+Welcome to the Mirage section of our Counter-Strike 2 guide. Here, you'll find comprehensive strategies
+## Quick Links
 
-1. Stand in front of Trashcan
-2. Look at corner of balcony
-
-| Position | Point of View |
-|----------|---------------|
-| ![Position](./assets/img/de_mirage_window_pos.png) | ![POV](./assets/img/de_mirage_window_pov.png) |
-
-### Connector Smoke
-
-1. Stand in front of Trashcan
-2. Look at corner of balcony
-
-| Position | Point of View |
-|----------|---------------|
-| ![Position](./assets/img/de_mirage_connector_pos.png) | ![POV](./assets/img/de_mirage_connector_pov.png) |
-
-### Short Smoke
-
-1. Look at corner of balcony
-
-| Position | Point of View |
-|----------|---------------|
-| ![Position](./assets/img/de_mirage_short_pos.png) | ![POV](./assets/img/de_mirage_short_pov.png) |
-
-### A Stairs Smoke
-
-1. Stand in front of Trashcan
-2. Look at corner of balcony
-
-| Position | Point of View |
-|----------|---------------|
-| ![Position](./assets/img/de_mirage_stairs_pos.png) | ![POV](./assets/img/de_mirage_stairs_pov.png) |
+- [![Tactics Index](path/to/tactics_image.png)](tacticindex.md) - Explore detailed strategies and tactics for Mirage including the grenades needed for them.
+- [![Nade Index](path/to/nade_image.png)](nadeindex.md) - Discover all our grenades for mirage.
