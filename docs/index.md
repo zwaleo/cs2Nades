@@ -1,17 +1,3 @@
-# Welcome to MkDocs
+# Counter-Strike 2 Tactics and Grenade Usage
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Welcome to the ultimate guide for Counter-Strike 2 tactics and grenade usage. Here, you'll find detailed strategies and the best spots to use your grenades for each map.
