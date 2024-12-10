@@ -2,28 +2,37 @@
 
 ## T-Side
 
-        ### Window Smoke
+### Window Smoke
 
-        1. Stand in front of Trashcan
-        2. Look at corner of balcony
+1. Stand in front of Trashcan
+2. Look at corner of balcony
 
-        ![Alt text](./assets/img/de_mirage_window_pos.png) ![Alt text](./assets/img/de_mirage_window_pov.png)
+| Position | Point of View |
+|----------|---------------|
+| ![Position](./assets/img/de_mirage_window_pos.png) | ![POV](./assets/img/de_mirage_window_pov.png) |
 
-        ### Connector Smoke
+### Connector Smoke
 
-        1. Stand in front of Trashcan
-        2. Look at corner of balcony
+1. Stand in front of Trashcan
+2. Look at corner of balcony
 
-        ![Alt text](./assets/img/de_mirage_window_pos.png) ![Alt text](./assets/img/de_mirage_window_pov.png)
+| Position | Point of View |
+|----------|---------------|
+| ![Position](./assets/img/de_mirage_connector_pos.png) | ![POV](./assets/img/de_mirage_connector_pov.png) |
 
-    ## Short Smoke
-        2. Look at corner of balcony
+### Short Smoke
 
-        ![Alt text](./assets/img/de_mirage_window_pos.png) ![Alt text](./assets/img/de_mirage_window_pov.png)
+1. Look at corner of balcony
 
-        ### A Stairs Smoke
+| Position | Point of View |
+|----------|---------------|
+| ![Position](./assets/img/de_mirage_short_pos.png) | ![POV](./assets/img/de_mirage_short_pov.png) |
 
-        1. Stand in front of Trashcan
-        2. Look at corner of balcony
+### A Stairs Smoke
 
-        ![Alt text](./assets/img/de_mirage_window_pos.png) ![Alt text](./assets/img/de_mirage_window_pov.png)
+1. Stand in front of Trashcan
+2. Look at corner of balcony
+
+| Position | Point of View |
+|----------|---------------|
+| ![Position](./assets/img/de_mirage_stairs_pos.png) | ![POV](./assets/img/de_mirage_stairs_pov.png) |
