@@ -4,7 +4,8 @@ Welcome to the ultimate guide for Counter-Strike 2 tactics and grenade usage. He
 
 ## Quick Links
 
-#### Mirage
+<img src="./assets/img/mirage_logo.png" alt="Mirage Logo" width="100" align="left" />
 
 - [Grenades](./nades/mirage_nades.md)
+
 - [Tactics](./tactics/mirage_tactics.md)
