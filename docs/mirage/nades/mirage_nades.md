@@ -4,8 +4,8 @@
 
 | CT Smoke                             | Stairs Smoke                         | Jungle Smoke                         |
 |--------------------------------------|--------------------------------------|--------------------------------------|
-| ![Greande Landed](/assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Grenade Landed](/assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Grenade Landed](/assets/img/mirage_tside_ctsmoke_3rd.jpg) |
-| ![Pos](/assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Grenade Landed](/assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Grenade Landed](/assets/img/mirage_tside_ctsmoke_3rd.jpg) |
+| ![Greande Landed](assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Grenade Landed](assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Grenade Landed](assets/img/mirage_tside_ctsmoke_3rd.jpg) |
+| ![Pos](assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Grenade Landed](assets/img/mirage_tside_ctsmoke_3rd.jpg) | ![Grenade Landed](assets/img/mirage_tside_ctsmoke_3rd.jpg) |
 | Jumpthrow                            | Description for Grenade 2            | Description for Grenade 3            |
 
 ---
