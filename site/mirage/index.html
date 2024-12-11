@@ -11,10 +11,8 @@
         <link rel="canonical" href="https://zwaleo.github.io/mirage/">
       
       
-        <link rel="prev" href="../dust2/">
+        <link rel="prev" href="..">
       
-      
-        <link rel="next" href="../inferno/">
       
       
       <link rel="icon" href="../assets/images/favicon.png">
@@ -48,6 +46,8 @@
       
     
     
+      <link rel="stylesheet" href="../glightbox.css">
+    
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -55,7 +55,16 @@
     
     
     
-  </head>
+   <link href="../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -218,26 +227,6 @@
       
   
   
-  
-  
-    <li class="md-nav__item">
-      <a href="../dust2/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Dust II
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
     
   
   
@@ -308,26 +297,6 @@
   
 </nav>
       
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../inferno/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Inferno
-  </span>
-  
-
-      </a>
     </li>
   
 
@@ -404,8 +373,8 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="/docs/mirage/tactics/tacticsindex.md"><img alt="Tactics Index" src="/assets/img/tactics.jpg" /></a></td>
-<td><a href="/docs/mirage/nades/mirage_nades.md"><img alt="Nade Index" src="../assets/img/nades.jpg" /></a></td>
+<td><a href="../tactics/mirage_tactics/"><img alt="Tactics Index" src="../assets/img/tactics.jpg" /></a></td>
+<td><a href="../nades/mirage_nades/"><img alt="Nade Index" src="../assets/img/nades.jpg" /></a></td>
 </tr>
 <tr>
 <td>Explore detailed strategies and tactics for Mirage including the grenades needed for them.</td>
@@ -464,6 +433,10 @@
     
       <script src="../assets/javascripts/bundle.83f73b43.min.js"></script>
       
+        <script src="../glightbox.js"></script>
+      
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>

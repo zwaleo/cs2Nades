@@ -2,17 +2,38 @@ site_name: CS2 Nades and Tactics
 site_url: https://zwaleo.github.io
 nav:
   - Home: index.md
-  - Dust II: dust2.md
   - Mirage: mirage.md
-  - Inferno: inferno.md
 theme:
   palette:
     primary: "amber"
     accent: "amber"
     scheme: "slate"
   name: material
-  
-  markdown_extensions:
+plugins:
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+      manual: false
+  - search:
+      indexing: full
+
+extra_css: 
+  - glightbox.css
+extra_javascript:
+  - glightbox.js
+markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
