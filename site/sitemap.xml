@@ -5,23 +5,19 @@
          <lastmod>2024-12-11</lastmod>
     </url>
     <url>
-         <loc>https://zwaleo.github.io/dust2/</loc>
-         <lastmod>2024-12-11</lastmod>
-    </url>
-    <url>
-         <loc>https://zwaleo.github.io/inferno/</loc>
-         <lastmod>2024-12-11</lastmod>
-    </url>
-    <url>
-         <loc>https://zwaleo.github.io/mirage/</loc>
-         <lastmod>2024-12-11</lastmod>
-    </url>
-    <url>
          <loc>https://zwaleo.github.io/nades/mirage_nades/</loc>
          <lastmod>2024-12-11</lastmod>
     </url>
     <url>
+         <loc>https://zwaleo.github.io/nades/nades_index/</loc>
+         <lastmod>2024-12-11</lastmod>
+    </url>
+    <url>
          <loc>https://zwaleo.github.io/tactics/mirage_tactics/</loc>
+         <lastmod>2024-12-11</lastmod>
+    </url>
+    <url>
+         <loc>https://zwaleo.github.io/tactics/tactics_index/</loc>
          <lastmod>2024-12-11</lastmod>
     </url>
 </urlset>

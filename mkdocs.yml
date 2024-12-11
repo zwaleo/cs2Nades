@@ -2,8 +2,12 @@ site_name: CS2 Nades and Tactics
 site_url: https://zwaleo.github.io
 nav:
   - Home: index.md
-  - Mirage: mirage.md
+  - Grenades: ./nades/nades_index.md
+  - Tactics: ./tactics/tactics_index.md
 theme:
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
   palette:
     primary: "amber"
     accent: "amber"
