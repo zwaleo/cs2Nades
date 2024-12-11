@@ -7,6 +7,6 @@ Welcome to the ultimate guide for Counter-Strike 2 tactics and grenade usage. He
 
 ## Quick Links
 
-| [![Mirage Logo](./assets/img/mirage_logo.png)](./nades/mirage_nades.md) | [![Dust II Logo](./assets/img/dust2_logo.png)](./nades/mirage_nades.md) |
-|:--:|:--:|
-| [Grenades](./nades/mirage_nades.md) [Tactics](./tactics/mirage_tactics.md) | [Grenades](./nades/mirage_nades.md) [Tactics](./tactics/mirage_tactics.md) |
+### Grenades
+
+[![Mirage Logo](./assets/img/mirage_logo_100x100.png)](./nades/mirage_nades.md) [![Dust II Logo](./assets/img/dust2_logo_100x100.png)](./nades/mirage_nades.md)
