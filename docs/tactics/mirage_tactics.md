@@ -10,6 +10,8 @@ Here i will list some Tactics for the Terrorists
 
 ## Mousesport´s Connector A Split Rush
 
+
+
 ### Summary of Attack Flow
 **Mid Control:** <span style="color: #CC6CE7;">Purple</span>, <span style="color: orange;">Orange</span>, and <span style="color: green;">Green</span> take control of mid. <br><span style="color: #CC6CE7;">Purple</span> and <span style="color: orange;">Orange</span> push Connector while <span style="color: green;">Green</span> holds mid and pressures Jungle.
 
@@ -19,8 +21,9 @@ Here i will list some Tactics for the Terrorists
 
 **Post-Plant:** Spread out to hold strong post-plant positions like Ramp, Palace, and Jungle/Connector.
 
+<img src="../../assets/img/CS2 Strategy1.png" alt="step 1" width=500><img src="../../assets/img/CS2 Strategy2.png" alt="step 2" width=500>
 
-### Instructions
+### Instructions details
 <details>
   <summary style="color: #CC6CE7;">Instruction Purple</summary>
   <p><strong>Utility:</strong></p>
