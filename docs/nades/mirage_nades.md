@@ -5,9 +5,9 @@ hide:
 glightbox.auto_caption: true
 ---
 
-# Mirage Grenades for Terrorist
+## Mirage Grenades for Terrorist
 
-## Mid-Control
+### Mid-Control
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div style="position: relative; display: inline-block; width: 33%;">
@@ -24,7 +24,7 @@ glightbox.auto_caption: true
     </div>
 </div>
 
-## A-Site
+### A-Site
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div style="position: relative; display: inline-block; width: 33%;">
@@ -46,7 +46,7 @@ glightbox.auto_caption: true
 </div>
 
 
-## B-Site
+### B-Site
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div style="position: relative; display: inline-block; width: 33%;">
@@ -67,5 +67,5 @@ glightbox.auto_caption: true
     </div>
 </div>
 
-# Mirage Grenades for Counter-Terrorist
+## Mirage Grenades for Counter-Terrorist
 
